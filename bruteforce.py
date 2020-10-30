@@ -9,6 +9,14 @@ import random
 
 
 
+         +-+-+ +-+-+-+-+-+-+
+         |F|S| |S|H|O|V|O|N|
+         +-+-+ +-+-+-+-+-+-+
+ ======================================
+ |Author:  Unknown Coder Official     |
+ |Youtube: No channel                 |
+ |Facebook:Official.Unknown.Coder     |
+ ======================================
 email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
 
 
