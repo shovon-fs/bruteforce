@@ -1,25 +1,25 @@
 # bruteforce
 Installation:
 
-$ pkg update
+# $ pkg update
 
-$ pkg upgrade
+# $ pkg upgrade
 
-$ pkg install python python2 git -y
+# $ pkg install python python2 git -y
 
-$ git clone https://github.com/shovon-fs/bruteforce.git
+# $ git clone https://github.com/shovon-fs/bruteforce.git
 
-$ ls
+# $ ls
 
-$ cd bruteforce
+# $ cd bruteforce
 
-$ chmod +x *
+# $ chmod +x *
 
-$ pip2 install requests
+# $ pip2 install requests
 
-$ pip2 install mechanize
+# $ pip2 install mechanize
 
-$ python2 bruteforce.py
+# $ python2 bruteforce.py
 
 Then enter the facebook username of your victim like mahim.islam or 100028828381881
 
@@ -29,4 +29,5 @@ After that write pass.txt
 
 Press enter
 
-Cracking Started.....
+Cracking Started.........
+Tool complete.........
