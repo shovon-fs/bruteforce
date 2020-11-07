@@ -9,6 +9,24 @@ import random
 
 
 
+#### colours ####
+B='\033[1;94m'
+R='\033[1;91m'
+G='\033[1;92m'
+W='\033[1;97m'
+S='\033[1;96m'
+P='\033[1;95m'
+Y='\033[1;93m'
+
+##### LOGO #####
+logo = """
+\033[1;97m======================================
+\033[1;96m|Author: FAHIM SHAHRIAR SHOVON       |
+\033[1;95m|Youtube: No channel                 |
+\033[1;96m|Facebook:Official.Unknown.Coder     |
+\033[1;95m====================================== 
+\033[1;93m\033[1;92m\033[1;93m WhatsApp Number \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m Dibona \033[1;92m\033[1;95m
+\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mFAHIM-SHAHRIAR\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"""
 email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
 
 
