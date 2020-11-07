@@ -9,14 +9,14 @@ import random
 
 
 
-         +-+-+ +-+-+-+-+-+-+
-         |F|S| |S|H|O|V|O|N|
-         +-+-+ +-+-+-+-+-+-+
- ======================================
- |Author:  Unknown Coder Official     |
- |Youtube: No channel                 |
- |Facebook:Official.Unknown.Coder     |
- ======================================
+ print " +-+-+ +-+-+-+-+-+-+"
+ print "|F|S| |S|H|O|V|O|N|"
+ print " +-+-+ +-+-+-+-+-+-+"
+ print "======================================"
+ print "|Author:  Unknown Coder Official     |"
+ print "|Youtube: No channel                 |"
+ print "|Facebook:Official.Unknown.Coder     |"
+ print "======================================"
 email = str(raw_input("Enter the Facebook Username (or) Email (or) Phone Number : "))
 
 
